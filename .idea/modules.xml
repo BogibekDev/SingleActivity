@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android_saas.iml" filepath="$PROJECT_DIR$/.idea/modules/android_saas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android_saas.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android_saas.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android_saas.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android_saas.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android_saas.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android_saas.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android_saas.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android_saas.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
